@@ -1,9 +1,0 @@
-elevenlabs
-librosa==0.9.2
-numpy
-opencv-contrib-python
-opencv-python
-tqdm
-numba
-yt_dlp
-torch
